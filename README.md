@@ -1,5 +1,5 @@
 
-# 🔐 Seguridad de Datos – Bitácora de Clase
+#  Seguridad de Datos – Bitácora de Clase
 
 **Alumno:** Derek Todd López  
 **Repositorio:** Seguridad-de-Datos2026  
@@ -8,17 +8,17 @@
 
 ---
 
-## 📅 Sesión: Modelo OSI, TCP/IP y Fundamentos de Seguridad en Redes
+## Sesión: Modelo OSI, TCP/IP y Fundamentos de Seguridad en Redes
 
 ---
 
-## 📌 Objetivo de la Clase
+## Objetivo de la Clase
 
 Comprender el funcionamiento del modelo OSI y su relación con TCP/IP, identificar vulnerabilidades en cada capa y analizar cómo se clasifican los ataques dentro de la seguridad informática.
 
 ---
 
-## 📡 Modelo OSI vs TCP/IP
+## Modelo OSI vs TCP/IP
 
 El modelo OSI divide la comunicación en red en 7 capas:
 
@@ -42,14 +42,14 @@ El modelo OSI facilita la clasificación de ataques y el análisis de vulnerabil
 
 ---
 
-## 🧱 Capa 2 – Enlace de Datos
+## Capa 2 – Enlace de Datos
 
 ### MAC Address
 - Dirección física única del dispositivo.
 - No es enrutable.
 - Utilizada por switches para reenviar tráfico.
 
-📌 El switch trabaja con direcciones MAC, no con IP.
+ El switch trabaja con direcciones MAC, no con IP.
 
 ### Ataques en esta capa
 - MAC Address Spoofing  
@@ -66,7 +66,7 @@ El modelo OSI facilita la clasificación de ataques y el análisis de vulnerabil
 
 ---
 
-## 🌐 Capa 3 – Red
+## Capa 3 – Red
 
 Trabaja con direcciones IP (ejemplo: 192.168.1.1).
 
@@ -84,7 +84,7 @@ Trabaja con direcciones IP (ejemplo: 192.168.1.1).
 
 ---
 
-## 🚚 Capa 4 – Transporte
+## Capa 4 – Transporte
 
 Existen 65,536 puertos que identifican servicios y aplicaciones.
 
@@ -124,7 +124,7 @@ Existen 65,536 puertos que identifican servicios y aplicaciones.
 
 ---
 
-## 🔍 Reconocimiento y Port Scanning
+##  Reconocimiento y Port Scanning
 
 El port scanning forma parte de la fase de reconocimiento en pentesting.
 
@@ -140,7 +140,7 @@ También se explicó el concepto de Banner Grabbing, técnica que permite identi
 
 ---
 
-## 🧠 Tipos de Hackers
+##  Tipos de Hackers
 
 - White Hat – Hackers éticos autorizados  
 - Black Hat – Hackers maliciosos  
@@ -151,7 +151,7 @@ También se explicó el concepto de Banner Grabbing, técnica que permite identi
 
 ---
 
-## 🧑‍💻 Pentesting
+##  Pentesting
 
 ### Tipos de prueba
 - Caja Blanca  
@@ -172,7 +172,7 @@ Concepto adicional:
 
 ---
 
-## 📊 SIEM
+##  SIEM
 
 El SIEM permite:
 - Centralizar logs
@@ -184,7 +184,7 @@ Es fundamental para la seguridad en entornos empresariales.
 
 ---
 
-## 🔐 Clasificación de Ataques por Capa OSI
+##  Clasificación de Ataques por Capa OSI
 
 | Ataque | Capa |
 |--------|------|
@@ -200,7 +200,7 @@ Clasificar los ataques por capa facilita su análisis, auditoría y mitigación.
 
 ---
 
-## 🧾 Conceptos Clave
+##  Conceptos Clave
 
 - Flaw: Falla de diseño  
 - Exploit: Código que aprovecha una vulnerabilidad  
